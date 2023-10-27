@@ -1,5 +1,3 @@
 hii hello
 hey mahesh
 hello
-hi
-mahesh
